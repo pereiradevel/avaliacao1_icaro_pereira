@@ -8,3 +8,4 @@ media = (notaaluno / alunos)
 print(f"Media da turma foi: {media}.")
 if notas >= 6:
     print(f"{i} foram aprovados.")
+#Testando GIT
